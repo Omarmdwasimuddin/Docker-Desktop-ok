@@ -12,3 +12,8 @@ docker images
 ```
 ---
 
+#### command daw
+```bash
+docker push omarmdwasimuddin/my-node
+```
+---
