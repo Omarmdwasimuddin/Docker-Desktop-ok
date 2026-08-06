@@ -6,4 +6,9 @@
 ```bash
 docker buildx build --platform linux/amd64 -t omarmdwasimuddin/my-node .
 ```
+#### check docker images
+```bash
+docker images
+```
 ---
+
